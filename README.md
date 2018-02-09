@@ -6,3 +6,7 @@
 A tensorflow implemention of CapsNet in [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 ![capsnet](capsnet.png)
 
+## Requirements
+- Python3
+- NumPy
+- [Tensorflow >= 1.3](https://github.com/tensorflow/tensorflow)
