@@ -26,13 +26,11 @@ Download the [MNIST dataset](http://yann.lecun.com/exdb/mnist/), extract it into
 **Step 3.** 
 Start the training:
 ```
-
 $ python run_capsnet.py
 ```
 
 **Step 3.** 
 Test capsnet model:
 ```
-
 $ python run_capsnet.py --run_mode=test
 ```
