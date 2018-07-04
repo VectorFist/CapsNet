@@ -30,7 +30,7 @@ Start the training:
 $ python run_capsnet.py
 ```
 
-**Step 3.** 
+**Step 4.** 
 Test capsnet model:
 ```
 $ python run_capsnet.py --run_mode=test
